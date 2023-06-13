@@ -1,4 +1,3 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thoughtco.com%2Fwhat-is-javascript-2037921&psig=AOvVaw0xUEJkIwvI4ldX-r7KRNJ-&ust=1686739450223000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCXmJ-IwP8CFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Ömer Canpolat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
