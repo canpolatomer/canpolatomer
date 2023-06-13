@@ -14,3 +14,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canpolatomer&show_icons=true&locale=en" alt="canpolatomer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canpolatomer&" alt="canpolatomer" /></p>
+
+
+![snake gif](https://github.com/canpolatomer/canpolatomer/blob/output/github-contribution-grid-snake.gif)
